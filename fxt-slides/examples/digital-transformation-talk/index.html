@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-themes="blueprint,tokyo-night,catppuccin-mocha,pitch-deck-vc,corporate-clean">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>数字化转型最大的坑 — 为什么80%的AI项目会失败？</title>
+<link rel="stylesheet" href="../../assets/fonts.css">
+<link rel="stylesheet" href="../../assets/base.css">
+<link rel="stylesheet" id="theme-link" href="../../assets/themes/blueprint.css">
+<link rel="stylesheet" href="../../assets/animations/animations.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="tpl-dt-talk">
+<div class="deck">
+
+  <!-- ============ 1. COVER ============ -->
+  <section class="slide center tc" data-title="封面">
+    <div>
+      <p class="kicker">免费公开课 · 数字化转型深度解读</p>
+      <h1 class="h1 anim-fade-up" data-anim="fade-up">数字化转型<span class="accent">最大的坑</span><br>为什么 80% 的 AI 项目会失败？</h1>
+      <p class="lede mt-m">25 分钟 · 案例复盘 + 理论框架 + 自检工具</p>
+      <div class="deck-footer">
+        <span class="dim2">按 S 进入演讲者模式 · 按 T 切换主题</span>
+        <span class="slide-number" data-current="1" data-total="18"></span>
+      </div>
+    </div>
+    <aside class="notes">
+      <p>大家好，欢迎来到今天的公开课。在正式开讲之前，我想先问你一个问题——你回想一下，过去三年，你的公司有没有上过什么新系统？ERP、CRM、MES、OA……什么都行。我再问你第二个问题：这个系统，达到预期效果了吗？</p>
+      <p>我做过一个调研，问了几百位企业管理者，得到的结果让我自己都挺震惊的——<strong>超过70%的人说，效果不及预期</strong>。有人说"员工不用"，有人说"数据不准"，有人说"流程更乱了"，还有人说"花了钱，没什么变化"。</p>
+      <p>如果你也有类似的感受，那今天的这堂公开课，就是为你准备的。我是谁不重要，重要的是，我今天要讲清楚一件事：<strong>为什么大部分数字化转型项目会失败，以及怎么避免。</strong>好，我们正式开始。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 2. 灵魂拷问 ============ -->
+  <section class="slide center tc" data-title="灵魂拷问">
+    <p class="kicker">一个真实的调研</p>
+    <div class="stat-big anim-fade-up" data-anim="fade-up">
+      <span class="stat-num gradient-text">70%</span>
+      <span class="stat-after">的人说</span>
+    </div>
+    <h2 class="h2" style="margin-top:0">系统效果<span class="accent">不及预期</span></h2>
+    <div class="grid g3 mt-l anim-stagger-list" data-anim-target>
+      <div class="card card-accent"><p class="dim">"员工不用"</p></div>
+      <div class="card card-accent"><p class="dim">"数据不准"</p></div>
+      <div class="card card-accent"><p class="dim">"花了钱，没什么变化"</p></div>
+    </div>
+    <aside class="notes">
+      <p>我做过一个调研，问了几百位企业管理者，超过70%的人说效果不及预期。"员工不用"、"数据不准"、"流程更乱"、"花了钱没什么变化"——如果你也有类似感受，今天的课就是为你准备的。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 3. 案例引入 ============ -->
+  <section class="slide" data-title="案例引入">
+    <p class="kicker">case study · 真实案例</p>
+    <h2 class="h2">一家年营收<span class="accent">5亿</span>的制造企业</h2>
+    <div class="grid g3 mt-l anim-stagger-list" data-anim-target>
+      <div class="card card-accent">
+        <h4>企业画像</h4>
+        <p class="dim">精密零部件制造<br>年营收 5 亿<br>老板有魄力，关注新技术</p>
+      </div>
+      <div class="card card-accent">
+        <h4>项目投入</h4>
+        <p class="dim">MES 制造执行系统<br>投入 <span class="accent">300 万</span><br>实施周期 <span class="accent">8 个月</span></p>
+      </div>
+      <div class="card card-accent">
+        <h4>上线那天</h4>
+        <p class="dim">老板请大家吃饭<br>他说："从今天起，<br>我们就是数字化工厂了"</p>
+      </div>
+    </div>
+    <aside class="notes">
+      <p>有一家做精密零部件的制造企业，年营收大概5个亿。老板很有魄力，非常关注新技术，听说数字化是趋势，决定上MES系统——制造执行系统。他花了300万，请了一家还不错的供应商，团队加班加点，用了8个月时间，系统上线了。上线那天，老板很高兴，请大家吃饭。他说："从今天起，我们就是数字化工厂了。"</p>
+    </aside>
+  </section>
+
+  <!-- ============ 4. 案例结果 ============ -->
+  <section class="slide" data-title="案例结果">
+    <p class="kicker">three months later · 三个月后</p>
+    <h2 class="h2">OEE 设备综合效率<span class="bad-text">下降 20%</span></h2>
+    <div class="vs mt-l">
+      <div class="card good-side side anim-fade-left" data-anim="fade-left">
+        <h3>上线前</h3>
+        <div style="font-size:72px;font-weight:900;color:var(--good)">85%</div>
+        <p class="dim">OEE 设备综合效率</p>
+      </div>
+      <div class="mid">→</div>
+      <div class="card bad-side side anim-fade-right" data-anim="fade-right">
+        <h3>上线后</h3>
+        <div style="font-size:72px;font-weight:900;color:var(--bad)">65%</div>
+        <p class="dim">OEE 不升反降</p>
+      </div>
+    </div>
+    <p class="lede tc mt-m">老板的困惑：<span class="accent">"花了300万，效率怎么还降了？"</span></p>
+    <aside class="notes">
+      <p>但是，三个月后，他笑不出来了。因为他发现，OEE——设备综合效率——不但没有提升，反而比上线前下降了20%。老板很生气，把IT经理叫过来，说："你给我解释解释，花了300万，效率怎么还降了？"IT经理也很委屈，他说："老板，系统运行没问题啊，数据都是准的，我也不知道为什么。"</p>
+      <p>后来，这位老板通过朋友找到我，请我去做了一次深度复盘。我去待了三天，跟生产、设备、仓库、IT的人都聊了一遍，又翻了系统日志和现场记录。</p>
+      <p>你猜我发现了什么？问题根本不在于MES系统本身，而在于这家企业的管理基础——三个大坑。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 5. 根因1：流程混乱 ============ -->
+  <section class="slide" data-title="根因1">
+    <p class="kicker">root cause #1</p>
+    <div class="cause-header">
+      <span class="cause-num">01</span>
+      <h2 class="h2">流程<span class="accent">混乱</span></h2>
+    </div>
+    <div class="cause-card anim-fade-up" data-anim="fade-up">
+      <p class="big-problem">3条工艺路径，全靠老师傅脑子里的经验</p>
+      <div class="cause-flow">
+        <div class="cause-step old">过去：老张走了20年，知道什么时候走A路、什么时候走B路</div>
+        <div class="cause-arrow">↓</div>
+        <div class="cause-step new bad-step">上线后：工人嫌麻烦，要么乱选、要么不录</div>
+      </div>
+      <p class="result-line"><span class="accent">结果：</span>系统记录的流程 ≠ 实际发生的流程</p>
+    </div>
+    <aside class="notes">
+      <p><strong>第一个坑：流程混乱。</strong>这家企业的生产工艺其实有3条路径，但过去全靠老师傅的经验来决定走哪条路。老张走了20年，他知道什么时候该走A路、什么时候该走B路，但这个知识从来没有被写下来过。MES系统上线后，要求工人必须在系统里选择路径。结果工人嫌麻烦，要么乱选一个，要么干脆不录。系统记录的流程和实际发生的流程，完全是两回事。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 6. 根因2：权责不清 ============ -->
+  <section class="slide" data-title="根因2">
+    <p class="kicker">root cause #2</p>
+    <div class="cause-header">
+      <span class="cause-num">02</span>
+      <h2 class="h2">权责<span class="accent">不清</span></h2>
+    </div>
+    <div class="cause-card anim-fade-up" data-anim="fade-up">
+      <p class="big-problem">设备坏了谁修？过去全靠打电话叫人</p>
+      <div class="cause-flow">
+        <div class="cause-step old">过去：车间主任打电话 → 维修工来了就修 → 修完就走 → 没人记录</div>
+        <div class="cause-arrow">↓</div>
+        <div class="cause-step new bad-step">上线后：维修工觉得被监视，拖到最后一刻才录入，数据全是错的</div>
+      </div>
+      <p class="result-line"><span class="accent">结果：</span>系统记录的时间比实际长好几倍</p>
+    </div>
+    <aside class="notes">
+      <p><strong>第二个坑：权责不清。</strong>设备坏了谁负责修？过去是车间主任打电话叫维修工，维修工来了就修，修完了就走。至于什么时候来的、花了多长时间修好的，没人记录。MES系统上线后，维修工需要在系统里登记响应时间和完成时间。结果维修工不干了——他觉得这是在监视他。于是出现了一个很有意思的现象：维修工每次维修都拖到最后一刻才录入系统，系统记录的时间比实际时间长了好几倍。数据全是错的。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 7. 根因3：数据不准 ============ -->
+  <section class="slide" data-title="根因3">
+    <p class="kicker">root cause #3</p>
+    <div class="cause-header">
+      <span class="cause-num">03</span>
+      <h2 class="h2">数据<span class="accent">不准</span></h2>
+    </div>
+    <div class="cause-card anim-fade-up" data-anim="fade-up">
+      <p class="big-problem">同一个零件，3个部门3个不同编码</p>
+      <div class="three-codes">
+        <div class="code-tag">A车间："BJ-001"</div>
+        <div class="code-tag">B车间："配件-01"</div>
+        <div class="code-tag">仓库："标准件-A类"</div>
+      </div>
+      <p class="result-line"><span class="accent">结果：</span>系统里有料，现场找不到 — 生产停线</p>
+    </div>
+    <aside class="notes">
+      <p><strong>第三个坑：数据不准。</strong>这家企业的物料编码规则是10年前定的，当时只有一个车间、两条产线。现在发展到三个车间、十几条产线，但编码规则从来没更新过。结果同一个零件在不同部门有3个不同的编码。MES系统需要按编码来扣库存，结果经常出现"系统里有料、现场找不到"的情况。生产停线，工人骂系统，系统说"不关我的事"。你看，这三个问题，没有一个是MES系统本身的缺陷。但系统把它们全部放大了——原来靠人糊弄过去的事情，现在系统不让你糊弄了。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 8. 核心观点 ============ -->
+  <section class="slide center tc" data-title="核心观点">
+    <div class="big-insight anim-fade-up" data-anim="fade-up">
+      <div class="insight-quote">"</div>
+      <blockquote>
+        数字化转型最大的坑，<br>是用<span class="accent">技术方案</span>去<br><span class="accent">掩盖管理问题</span>。
+      </blockquote>
+      <p class="insight-sub dim">三个问题，没有一个是 MES 系统本身的缺陷。<br>但系统把它们全部放大了。</p>
+    </div>
+    <aside class="notes">
+      <p>这就是我要说的核心观点：<strong>数字化转型最大的坑，是用技术解决方案去掩盖管理问题。</strong>原来靠人糊弄过去的事情，现在系统不让你糊弄了。这就像在一栋地基都没打好的房子上装修——你装修得再豪华，房子该塌还是塌。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 9. 三阶段模型 ============ -->
+  <section class="slide" data-title="三阶段模型">
+    <p class="kicker">framework · 理论框架</p>
+    <h2 class="h2">数字化转型<span class="accent">三阶段模型</span></h2>
+    <div class="phase-timeline mt-l anim-stagger-list" data-anim-target>
+      <div class="phase-item">
+        <div class="phase-num">01</div>
+        <div class="phase-dot"></div>
+        <h3>管理标准化</h3>
+        <p class="dim">把"人治"变成"法治"<br>流程显性化 · 数据标准化 · 异常规则化</p>
+      </div>
+      <div class="phase-connector">→</div>
+      <div class="phase-item">
+        <div class="phase-num">02</div>
+        <div class="phase-dot"></div>
+        <h3>流程在线化</h3>
+        <p class="dim">标准化后的流程固化到系统<br>规则由系统强制执行</p>
+      </div>
+      <div class="phase-connector">→</div>
+      <div class="phase-item">
+        <div class="phase-num">03</div>
+        <div class="phase-dot accent-dot"></div>
+        <h3 class="accent">数据智能化</h3>
+        <p class="dim">AI 加持：自动化 · 预测 · 优化<br>让数据帮你决策</p>
+      </div>
+    </div>
+    <p class="lede tc mt-m">顺序<span class="accent">不能错</span>，跳步<span class="bad-text">必翻车</span>。</p>
+    <aside class="notes">
+      <p>好，案例讲完了。我们来提炼一下底层逻辑。我给大家一个三阶段模型，这个模型是我在几十个项目里总结出来的。</p>
+      <p><strong>第一阶段：管理标准化。</strong>把"人治"变成"法治"。业务流程显性化、数据标准统一、异常处理有规则。目标是任何一个人照着流程做，能做到80分以上。</p>
+      <p><strong>第二阶段：流程在线化。</strong>管理标准化之后，才能把流程搬到线上。把标准化后的流程固化到系统里，让系统来"强制执行"你的规则。目标是流程跑在系统里，而不是跑在人的嘴巴里。</p>
+      <p><strong>第三阶段：数据智能化。</strong>当你的流程在线化跑通了，积累了足够的高质量数据，这时候AI才能发挥作用。AI可以做三件事：自动化、预测、优化。</p>
+      <p>现在问你一个问题：很多企业做数字化转型，从哪个阶段开始？答案是：<strong>他们直接从0跳到第三阶段。</strong>老板听说AI很火，就说"我们也要上AI"。但回头一看，自己的流程还是靠Excel传、数据还是靠人工报、管理还是靠老板拍脑袋。这种情况下上AI，就像在一栋地基都没打好的房子上装修——装修得再豪华，房子该塌还是塌。正确的顺序是：一步一步来。先标准化，再在线化，最后智能化。顺序不能错，跳步必翻车。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 10. 阶段详解1：管理标准化 ============ -->
+  <section class="slide" data-title="管理标准化">
+    <p class="kicker">phase 01 · 基础</p>
+    <h2 class="h2">管理<span class="accent">标准化</span> — 把"人治"变成"法治"</h2>
+    <div class="stack mt-l anim-stagger-list" data-anim-target>
+      <div class="rule-row">
+        <span class="num good-num">01</span>
+        <div>
+          <b>流程显性化</b>
+          <p class="dim">不能只藏在老员工脑子里。画出来、写下来、确认、分发。</p>
+        </div>
+      </div>
+      <div class="rule-row">
+        <span class="num good-num">02</span>
+        <div>
+          <b>数据标准化</b>
+          <p class="dim">统一编码规则、统一口径。一个零件不能三个名字。</p>
+        </div>
+      </div>
+      <div class="rule-row">
+        <span class="num good-num">03</span>
+        <div>
+          <b>异常处理规则化</b>
+          <p class="dim">不能什么事都找老板。什么情况走什么流程，写清楚。</p>
+        </div>
+      </div>
+    </div>
+    <p class="lede tc mt-m"><span class="accent">目标：</span>任何一个人，照着流程做，能做到 80 分以上。</p>
+    <aside class="notes">
+      <p>第一阶段，管理标准化，核心是把"人治"变成"法治"。三个要点：第一，流程显性化——把工艺路径画出来，用大白纸贴墙上，每一步谁来做、输入什么、输出什么，全部写清楚，让老师傅确认；第二，数据标准化——统一编码规则；第三，异常处理规则化——不能什么事都找老板。目标是任何一个人照着流程做能做到80分以上。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 11. 阶段详解2：流程在线化 ============ -->
+  <section class="slide" data-title="流程在线化">
+    <p class="kicker">phase 02 · 固化</p>
+    <h2 class="h2">流程<span class="accent">在线化</span></h2>
+    <div class="center-content mt-l anim-fade-up" data-anim="fade-up">
+      <p class="big-line">不是把线下流程简单地复制到线上</p>
+      <div class="highlight-box mt-m">
+        <p class="big-line accent">把标准化后的流程固化到系统里<br>让系统来"强制执行"你的规则</p>
+      </div>
+      <p class="lede mt-m"><span class="accent">目标：</span>流程跑在系统里，而不是跑在人的嘴巴里。</p>
+    </div>
+    <aside class="notes">
+      <p>第二阶段，流程在线化。关键认知：不是把线下流程简单复制到线上——而是把标准化后的流程固化到系统里，让系统来强制执行你的规则。目标：流程跑在系统里，而不是跑在人的嘴巴里。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 12. 阶段详解3：数据智能化 ============ -->
+  <section class="slide" data-title="数据智能化">
+    <p class="kicker">phase 03 · 智能</p>
+    <h2 class="h2">数据<span class="accent">智能化</span> — AI 能做的三件事</h2>
+    <div class="grid g3 mt-l anim-stagger-list" data-anim-target>
+      <div class="card card-accent">
+        <h4>自动化</h4>
+        <p class="dim">替代重复性的人力工作<br>报表自动生成、异常自动告警<br>审批自动流转</p>
+      </div>
+      <div class="card card-accent">
+        <h4>预测</h4>
+        <p class="dim">告诉你接下来<br>可能发生什么<br>设备故障预警、需求预测</p>
+      </div>
+      <div class="card card-accent">
+        <h4>优化</h4>
+        <p class="dim">告诉你怎么做<br>效果会更好<br>排产优化、路径优化</p>
+      </div>
+    </div>
+    <p class="lede tc mt-l"><span class="accent">前提：</span>高质量数据 + 在线化流程。否则 AI = 垃圾进、垃圾出。</p>
+    <aside class="notes">
+      <p>第三阶段，数据智能化。当流程在线化跑通、积累了高质量数据，AI才能发挥作用。AI做三件事：自动化——替代重复性人力工作；预测——告诉你接下来可能发生什么；优化——告诉你怎么做效果更好。但前提是高质量数据加在线化流程，否则就是垃圾进垃圾出。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 13. 错误路径 ============ -->
+  <section class="slide center tc" data-title="错误路径">
+    <p class="kicker">⚠ warning · 最常见的错误</p>
+    <div class="wrong-path anim-fade-up" data-anim="fade-up">
+      <div class="wrong-diagram">
+        <div class="w-step">当前状态<br><span class="dim2">Excel + 人工 + 拍脑袋</span></div>
+        <div class="w-arrow-bad">✕ 跳过所有基础</div>
+        <div class="w-step bad-step-box">直接上 AI<br><span class="dim2">"我们也要做AI"</span></div>
+      </div>
+      <div class="wrong-icon mt-l">⚠</div>
+      <h2 class="h2 mt-m">从 <span class="bad-text">0</span> 直接跳到 <span class="bad-text">3</span></h2>
+      <p class="lede">就像在一栋<span class="bad-text">地基都没打好</span>的房子上装修——<br>装修得再豪华，<strong>房子该塌还是塌</strong>。</p>
+    </div>
+    <aside class="notes">
+      <p>很多企业做数字化转型，直接从0跳到第三阶段。老板听说AI很火，就说"我们也要上AI"。但回头一看，流程还是靠Excel传、数据还是靠人工报、管理还是靠拍脑袋。这就像地基都没打好的房子——装修再豪华，该塌还是塌。正确的顺序是一步一步来：先标准化，再在线化，最后智能化。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 14. 5个自检问题 ============ -->
+  <section class="slide" data-title="5个自检问题">
+    <p class="kicker">self-check · 实操工具</p>
+    <h2 class="h2">你的企业<span class="accent">AI 就绪度</span> — 5 个自检问题</h2>
+    <div class="stack mt-l anim-stagger-list" data-anim-target>
+      <div class="check-row">
+        <span class="check-num">Q1</span>
+        <div>
+          <b>核心业务流程有没有文档化？</b>
+          <p class="dim">不是写个手册放在文件夹里落灰。而是：新人入职第一天，照着做，能做到 80 分以上。</p>
+        </div>
+      </div>
+      <div class="check-row">
+        <span class="check-num">Q2</span>
+        <div>
+          <b>关键数据有没有统一的口径？</b>
+          <p class="dim">"上个月的销售额"——财务部、销售部、运营部给出的数字一样吗？差超过 2%，就不行。</p>
+        </div>
+      </div>
+      <div class="check-row">
+        <span class="check-num">Q3</span>
+        <div>
+          <b>异常处理有没有规则？</b>
+          <p class="dim">客户投诉 — 什么情况客服直接处理？什么情况升级到主管？什么情况需要总经理介入？</p>
+        </div>
+      </div>
+      <div class="check-row">
+        <span class="check-num">Q4</span>
+        <div>
+          <b>跨部门协作有没有明确的 SLA？</b>
+          <p class="dim">销售部下单后，生产部承诺多久确认交期？采购部承诺多久回复物料到货时间？</p>
+        </div>
+      </div>
+      <div class="check-row">
+        <span class="check-num">Q5</span>
+        <div>
+          <b>管理人员开会讨论的是"数据"还是"感觉"？</b>
+          <p class="dim">"我觉得…""我听说…""大概可能…" vs "数据显示……"——你属于哪一种？</p>
+        </div>
+      </div>
+    </div>
+    <aside class="notes">
+      <p>好，理论讲完了。现在来做点实操。我给你5个自检问题，帮你判断企业能不能撑得起AI。</p>
+      <p><strong>问题1：核心业务流程有没有文档化？</strong>不是写手册放文件夹，而是新人入职第一天照着做能做到80分以上。如果流程还藏在老员工脑子里，管理基础不及格。</p>
+      <p><strong>问题2：关键数据有没有统一口径？</strong>上个月销售额，三个部门给三个数字？差超过2%就不行。</p>
+      <p><strong>问题3：异常处理有没有规则？</strong>客户投诉谁处理？什么情况升级？没有清晰规则就是不成熟。</p>
+      <p><strong>问题4：跨部门协作有没有明确SLA？</strong>销售下单后生产多久确认？没有承诺就是靠刷脸、靠关系。</p>
+      <p><strong>问题5：开会讨论的是数据还是感觉？</strong>"数据显示"vs"我觉得"——你属于哪一种？</p>
+    </aside>
+  </section>
+
+  <!-- ============ 15. 评分标准 ============ -->
+  <section class="slide" data-title="评分标准">
+    <p class="kicker">scoring · 来打个分</p>
+    <h2 class="h2">每个问题，回答<span class="accent">"是"</span>得 1 分</h2>
+    <div class="score-grid mt-l anim-stagger-list" data-anim-target>
+      <div class="score-card score-good">
+        <div class="score-num">5 分</div>
+        <h3>恭喜你</h3>
+        <p class="dim">管理基础很好<br>可以开始考虑 AI 了</p>
+      </div>
+      <div class="score-card score-mid">
+        <div class="score-num">3-4 分</div>
+        <h3>及格，但有短板</h3>
+        <p class="dim">建议先把短板补上<br>再上系统</p>
+      </div>
+      <div class="score-card score-bad">
+        <div class="score-num">0-2 分</div>
+        <h3>先别想 AI 的事了</h3>
+        <p class="dim">把管理基础打好吧<br>地基不牢，上层必塌</p>
+      </div>
+    </div>
+    <aside class="notes">
+      <p>5个问题，回答"是"得1分，"否"得0分。5分：恭喜，可以开始考虑AI。3到4分：及格但有短板，先补短板再上系统。0到2分：先别想AI，把管理基础打好。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 16. 案例复盘 ============ -->
+  <section class="slide" data-title="案例复盘">
+    <p class="kicker">retrospective · 那家企业后来怎么做的</p>
+    <h2 class="h2">案例<span class="accent">复盘</span></h2>
+    <div class="retro-table mt-l anim-stagger-list" data-anim-target>
+      <div class="retro-header">
+        <span>问题</span><span>解决方案</span><span>效果</span>
+      </div>
+      <div class="retro-row">
+        <span><b>流程混乱</b></span>
+        <span>所有老师傅开会一周，把 3 条工艺路径全部画出来，每个工位发一本</span>
+        <span class="good-num">流程显性化</span>
+      </div>
+      <div class="retro-row">
+        <span><b>权责不清</b></span>
+        <span>维修 30 分钟到场、2 小时出方案，超时自动升级到车间主任</span>
+        <span class="good-num">异常规则化</span>
+      </div>
+      <div class="retro-row">
+        <span><b>数据不准</b></span>
+        <span>成立数据治理小组，统一编码规则，花一个月清洗补录核对旧数据</span>
+        <span class="good-num">数据标准化</span>
+      </div>
+    </div>
+    <p class="lede tc mt-l">这三件事，<span class="accent">没有一个是技术问题</span>，<span class="accent">全是管理问题</span>。</p>
+    <aside class="notes">
+      <p>看看那家企业后来怎么做的。第一，流程混乱怎么解决？把所有老师傅叫到一起开了一周的会，把3条工艺路径画出来、贴墙上，确认完了打印成册，每个工位发一本。这叫流程显性化。第二，权责不清怎么解决？重新定义设备维修流程：维修工30分钟内到场、2小时内出方案，超时自动升级。这叫异常处理规则化。第三，数据不准怎么解决？成立数据治理小组，每个部门出一个人，统一规则、统一口径，花一个月把旧数据全部清洗补录核对。这叫数据标准化。三件事没有一个是技术问题，全是管理问题。但它们解决之后，MES系统突然就好用了，因为系统终于有对的数据可以跑了。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 17. 课程介绍 ============ -->
+  <section class="slide" data-title="课程介绍">
+    <p class="kicker">next step · 完整课程</p>
+    <h2 class="h2">《超级组织》三大板块</h2>
+    <div class="grid g3 mt-l anim-stagger-list" data-anim-target>
+      <div class="card card-accent">
+        <h4>板块一：地基篇</h4>
+        <p class="dim">系统教你管理标准化<br>流程在线化<br>AI 就绪度诊断</p>
+        <p class="dim2" style="margin-top:12px">4 节课</p>
+      </div>
+      <div class="card card-accent">
+        <h4>板块二：路径篇</h4>
+        <p class="dim">三条 AI 降本路径<br>帮你找到第一个<br>能算清楚账的项目</p>
+        <p class="dim2" style="margin-top:12px">4 节课</p>
+      </div>
+      <div class="card card-accent">
+        <h4>板块三：落地篇</h4>
+        <p class="dim">从试点到规模化<br>避免"试点成功<br>推广失败"的魔咒</p>
+        <p class="dim2" style="margin-top:12px">5 节课</p>
+      </div>
+    </div>
+    <div class="bonus-box mt-l anim-fade-up" data-anim="fade-up">
+      <p class="accent" style="font-weight:700">免费福利：</p>
+      <p class="dim">完整课程学员免费申请 <span class="accent">"AI 就绪度智能体"</span> 诊断服务<br>授权接入系统，72 小时内拿到《地基加固路线图》</p>
+    </div>
+    <aside class="notes">
+      <p>如果你觉得今天的课有帮助，这只是冰山一角。今天的课只是完整课程《超级组织》第一板块的第一节。完整课程有三个板块：地基篇——系统教你管理标准化、流程在线化、AI就绪度诊断，4节课；路径篇——三条AI降本路径，帮你找到第一个能算清楚账的项目，4节课；落地篇——从试点到规模化，避免"试点成功、推广失败"的魔咒，5节课。另外，完整课程学员还可以免费申请"AI就绪度智能体"诊断服务，不需要自己填表，授权接入系统，72小时内就能拿到一份《地基加固路线图》，精确到哪个部门的哪个字段必须先清洗。</p>
+    </aside>
+  </section>
+
+  <!-- ============ 18. 行动号召 ============ -->
+  <section class="slide center tc" data-title="行动号召">
+    <div>
+      <p class="kicker">take action · 现在就做</p>
+      <h1 class="h1 anim-fade-up" data-anim="fade-up">记住一句话</h1>
+      <div class="final-quote mt-m anim-fade-up" data-anim="fade-up">
+        <p class="big-line">"没有管理基础，<br><span class="accent">AI 只是昂贵的玩具。</span>"</p>
+      </div>
+      <div class="cta-buttons mt-l anim-stagger-list" data-anim-target>
+        <div class="cta-card">
+          <h3>评论区打 <span class="accent">"自测"</span></h3>
+          <p class="dim">助教把 5 个自检问题的详细评分表发给你<br>拿去给你的团队做一次摸底</p>
+        </div>
+        <div class="cta-card">
+          <h3>私信 <span class="accent">"课程"</span></h3>
+          <p class="dim">前 100 名学员享受早鸟价 <span class="accent">1299 元</span>（原价 2999）<br>还赠送一次智能体诊断</p>
+        </div>
+      </div>
+      <p class="lede mt-m">感谢你的时间。我们课程里见。</p>
+    </div>
+    <aside class="notes">
+      <p>好，公开课的内容到此结束。快速回顾：第一，80%的数字化转型项目失败，根源不在技术，而在管理基础。第二，正确的顺序是：管理标准化到流程在线化到数据智能化，不能跳步。第三，5个自检问题帮你判断AI就绪度。如果你只记住一句话：没有管理基础，AI只是昂贵的玩具。现在有两件事可以做：评论区打"自测"，助教把详细评分表发给你；私信"课程"，前100名学员享受早鸟价1299元，原价2999，还赠送一次智能体诊断。感谢你的时间，我们课程里见！</p>
+    </aside>
+  </section>
+
+</div>
+
+<div style="position:fixed;bottom:12px;left:12px;font-size:11px;color:#484f5866;z-index:100;pointer-events:none">
+  S 演讲者视图 · T 切换主题 · ← → 翻页 · F 全屏 · O 总览
+</div>
+
+<script src="../../assets/runtime.js"></script>
+</body>
+</html>
