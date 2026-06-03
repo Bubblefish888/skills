@@ -1,0 +1,20 @@
+{
+  "slug": "baobao",
+  "name": "宝宝",
+  "created_at": "2026-04-29T21:50:00",
+  "updated_at": "2026-04-29T21:50:00",
+  "stage": "5-together",
+  "score": 78,
+  "mode": "hybrid",
+  "chat_source": {
+    "type": "wechat_export",
+    "text_file": "C:/Users/Administrator/Downloads/texts/私聊_好好.txt",
+    "images_dir": "C:/Users/Administrator/Downloads/images",
+    "videos_dir": "C:/Users/Administrator/Downloads/videos",
+    "emojis_dir": "C:/Users/Administrator/Downloads/emojis",
+    "voices_dir": "C:/Users/Administrator/Downloads/voices",
+    "files_dir": "C:/Users/Administrator/Downloads/file",
+    "total_lines": 274103,
+    "date_range": "2025-08-18 ~ 2026-04-29"
+  }
+}
