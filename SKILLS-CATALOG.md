@@ -1,7 +1,7 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年06月28日 23:13
-> 📊 共 **112** 个 Skill（我的 9 个 + 系统 103 个）
+> 🤖 自动生成 | 更新时间：2026年06月28日 23:19
+> 📊 共 **122** 个 Skill（我的 19 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
 
@@ -19,7 +19,17 @@
 | 6 | `fxt-slides` | HTML PPT Studio — author professional static HTML presentati... |
 | 7 | `fxt-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
 | 8 | `fxt-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
-| 9 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
+| 9 | `jn-account-diagnose` |  |
+| 10 | `jn-clip-planner` |  |
+| 11 | `jn-comment-helper` |  |
+| 12 | `jn-data-reviewer` |  |
+| 13 | `jn-human-rewriter` |  |
+| 14 | `jn-painpoint-miner` |  |
+| 15 | `jn-publish-planner` |  |
+| 16 | `jn-script-coach` |  |
+| 17 | `jn-title-designer` |  |
+| 18 | `jn-topic-planner` |  |
+| 19 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
 
 ### 核心三板斧
 
@@ -193,4 +203,4 @@
 
 ---
 
-📊 总计 **112** 个 | 我的：**9** 个 | 系统：**103** 个 | 自动更新于 2026年06月28日 23:13
+📊 总计 **122** 个 | 我的：**19** 个 | 系统：**103** 个 | 自动更新于 2026年06月28日 23:19
