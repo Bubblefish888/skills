@@ -1,7 +1,7 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年06月30日 18:27
-> 📊 共 **122** 个 Skill（我的 19 个 + 系统 103 个）
+> 🤖 自动生成 | 更新时间：2026年06月30日 18:30
+> 📊 共 **124** 个 Skill（我的 21 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
 
@@ -11,25 +11,27 @@
 
 | # | Skill | 做什么 |
 |:-:|--------|--------|
-| 1 | `fxt-brain` | 知识库搭建技能：帮你把散落在电脑各处的笔记、文章、摘抄、截图文字整理成结构化、可检索的本地知识库。当用户提到"整理笔记"... |
-| 2 | `fxt-course-design` | AI课程设计系统：输入一个课程方向，系统性地产出从产品矩阵→课程大纲→逐字稿→营销物料→直播脚本→交付体系的全链路方案。... |
-| 3 | `fxt-course-images` | 课程推广图文生成器：输入课程/产品主题，自动生成一套4张推广图文页面（主图、收获清单、对比优势、适合人群）。支持HTML... |
-| 4 | `fxt-design` | 设计师工具包技能：输出专业设计规范——具体色号、字号、版式比例、字体搭配。 |
-| 5 | `fxt-excel` | Excel 数据处理技能：说人话出公式、数据匹配/透视/同比环比/图表一站式处理。 |
-| 6 | `fxt-slides` | HTML PPT Studio — author professional static HTML presentati... |
-| 7 | `fxt-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
-| 8 | `fxt-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
-| 9 | `jn-account-diagnose` |  |
-| 10 | `jn-clip-planner` |  |
-| 11 | `jn-comment-helper` |  |
-| 12 | `jn-data-reviewer` |  |
-| 13 | `jn-human-rewriter` |  |
-| 14 | `jn-painpoint-miner` |  |
-| 15 | `jn-publish-planner` |  |
-| 16 | `jn-script-coach` |  |
-| 17 | `jn-title-designer` |  |
-| 18 | `jn-topic-planner` |  |
-| 19 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
+| 1 | `ai-learning-interview` |  |
+| 2 | `fxt-brain` | 知识库搭建技能：帮你把散落在电脑各处的笔记、文章、摘抄、截图文字整理成结构化、可检索的本地知识库。当用户提到"整理笔记"... |
+| 3 | `fxt-course-design` | AI课程设计系统：输入一个课程方向，系统性地产出从产品矩阵→课程大纲→逐字稿→营销物料→直播脚本→交付体系的全链路方案。... |
+| 4 | `fxt-course-images` | 课程推广图文生成器：输入课程/产品主题，自动生成一套4张推广图文页面（主图、收获清单、对比优势、适合人群）。支持HTML... |
+| 5 | `fxt-design` | 设计师工具包技能：输出专业设计规范——具体色号、字号、版式比例、字体搭配。 |
+| 6 | `fxt-excel` | Excel 数据处理技能：说人话出公式、数据匹配/透视/同比环比/图表一站式处理。 |
+| 7 | `fxt-slides` | HTML PPT Studio — author professional static HTML presentati... |
+| 8 | `fxt-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
+| 9 | `fxt-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
+| 10 | `interview-prep-lilith` | | |
+| 11 | `jn-account-diagnose` |  |
+| 12 | `jn-clip-planner` |  |
+| 13 | `jn-comment-helper` |  |
+| 14 | `jn-data-reviewer` |  |
+| 15 | `jn-human-rewriter` |  |
+| 16 | `jn-painpoint-miner` |  |
+| 17 | `jn-publish-planner` |  |
+| 18 | `jn-script-coach` |  |
+| 19 | `jn-title-designer` |  |
+| 20 | `jn-topic-planner` |  |
+| 21 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
 
 ### 核心三板斧
 
@@ -203,4 +205,4 @@
 
 ---
 
-📊 总计 **122** 个 | 我的：**19** 个 | 系统：**103** 个 | 自动更新于 2026年06月30日 18:27
+📊 总计 **124** 个 | 我的：**21** 个 | 系统：**103** 个 | 自动更新于 2026年06月30日 18:30

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": {
+    "interview-prep-pm": {
+      "name": "interview-prep-pm",
+      "version": "1.0.0",
+      "source": "redskill",
+      "install_dir": "/Users/rebreeze/.claude/skills/interview-prep-pm",
+      "installed_at": "1782809615545",
+      "sha256": "5b187f4a15cfa953c6832049c2908d2797b62e60bf14a992d4cf9307c106bcde"
+    },
+    "interview-prep-lilith": {
+      "name": "interview-prep-lilith",
+      "version": "1.0.1",
+      "source": "redskill",
+      "install_dir": "/Users/rebreeze/.claude/skills/interview-prep-lilith",
+      "installed_at": "1782809616715",
+      "sha256": "d44cec2b99960f58884defa60c55f186d30b0032f72a7aafe73ec6fb0640c0cf"
+    },
+    "interview-pass-coach-redskill": {
+      "name": "interview-pass-coach-redskill",
+      "version": "1.1.0",
+      "source": "redskill",
+      "install_dir": "/Users/rebreeze/.claude/skills/interview-pass-coach-redskill",
+      "installed_at": "1782809617685",
+      "sha256": "5d49c375416cc071391b4c01142aa4523c7fd92d27983dec70957f63ff0ba757"
+    },
+    "interview-self-introduce": {
+      "name": "interview-self-introduce",
+      "version": "1.0.0",
+      "source": "redskill",
+      "install_dir": "/Users/rebreeze/.claude/skills/interview-self-introduce",
+      "installed_at": "1782810324778",
+      "sha256": "0545b447f6c2d6dc9783590cdf049ebc016fc924a977dbcbfff2f17f96d72888"
+    },
+    "ai-learning-interview": {
+      "name": "ai-learning-interview",
+      "version": "1.0.0",
+      "source": "redskill",
+      "install_dir": "/Users/rebreeze/.claude/skills/ai-learning-interview",
+      "installed_at": "1782810325155",
+      "sha256": "6a78dc28fffb338dbabc7e3b12d88a074b8d1c24dff4079edd13d63179b821a5"
+    }
+  }
+}
