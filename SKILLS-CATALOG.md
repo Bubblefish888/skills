@@ -1,7 +1,7 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年07月01日 20:57
-> 📊 共 **125** 个 Skill（我的 22 个 + 系统 103 个）
+> 🤖 自动生成 | 更新时间：2026年07月01日 21:16
+> 📊 共 **124** 个 Skill（我的 21 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
 
@@ -24,15 +24,14 @@
 | 11 | `jn-account-diagnose` |  |
 | 12 | `jn-clip-planner` |  |
 | 13 | `jn-comment-helper` |  |
-| 14 | `jn-copy-factory` |  |
-| 15 | `jn-data-reviewer` |  |
-| 16 | `jn-human-rewriter` |  |
-| 17 | `jn-painpoint-miner` |  |
-| 18 | `jn-publish-planner` |  |
-| 19 | `jn-script-coach` |  |
-| 20 | `jn-title-designer` |  |
-| 21 | `jn-topic-planner` |  |
-| 22 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
+| 14 | `jn-data-reviewer` |  |
+| 15 | `jn-human-rewriter` |  |
+| 16 | `jn-painpoint-miner` |  |
+| 17 | `jn-publish-planner` |  |
+| 18 | `jn-script-coach` |  |
+| 19 | `jn-title-designer` |  |
+| 20 | `jn-topic-planner` |  |
+| 21 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
 
 ### 核心三板斧
 
@@ -206,4 +205,4 @@
 
 ---
 
-📊 总计 **125** 个 | 我的：**22** 个 | 系统：**103** 个 | 自动更新于 2026年07月01日 20:57
+📊 总计 **124** 个 | 我的：**21** 个 | 系统：**103** 个 | 自动更新于 2026年07月01日 21:16
