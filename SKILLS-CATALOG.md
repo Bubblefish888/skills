@@ -1,7 +1,7 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年07月04日 14:59
-> 📊 共 **124** 个 Skill（我的 21 个 + 系统 103 个）
+> 🤖 自动生成 | 更新时间：2026年07月04日 19:21
+> 📊 共 **125** 个 Skill（我的 22 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
 
@@ -17,21 +17,22 @@
 | 4 | `fxt-course-images` | 课程推广图文生成器：输入课程/产品主题，自动生成一套4张推广图文页面（主图、收获清单、对比优势、适合人群）。支持HTML... |
 | 5 | `fxt-design` | 设计师工具包技能：输出专业设计规范——具体色号、字号、版式比例、字体搭配。 |
 | 6 | `fxt-excel` | Excel 数据处理技能：说人话出公式、数据匹配/透视/同比环比/图表一站式处理。 |
-| 7 | `fxt-slides` | HTML PPT Studio — author professional static HTML presentati... |
-| 8 | `fxt-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
-| 9 | `fxt-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
-| 10 | `interview-prep-lilith` | | |
-| 11 | `jn-account-diagnose` |  |
-| 12 | `jn-clip-planner` |  |
-| 13 | `jn-comment-helper` |  |
-| 14 | `jn-data-reviewer` |  |
-| 15 | `jn-human-rewriter` |  |
-| 16 | `jn-painpoint-miner` |  |
-| 17 | `jn-publish-planner` |  |
-| 18 | `jn-script-coach` |  |
-| 19 | `jn-title-designer` |  |
-| 20 | `jn-topic-planner` |  |
-| 21 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
+| 7 | `fxt-script` | 新媒体短视频脚本定制创作 — 从IP定位到成片交付的完整链路。 |
+| 8 | `fxt-slides` | HTML PPT Studio — author professional static HTML presentati... |
+| 9 | `fxt-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
+| 10 | `fxt-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
+| 11 | `interview-prep-lilith` | | |
+| 12 | `jn-account-diagnose` |  |
+| 13 | `jn-clip-planner` |  |
+| 14 | `jn-comment-helper` |  |
+| 15 | `jn-data-reviewer` |  |
+| 16 | `jn-human-rewriter` |  |
+| 17 | `jn-painpoint-miner` |  |
+| 18 | `jn-publish-planner` |  |
+| 19 | `jn-script-coach` |  |
+| 20 | `jn-title-designer` |  |
+| 21 | `jn-topic-planner` |  |
+| 22 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
 
 ### 核心三板斧
 
@@ -205,4 +206,4 @@
 
 ---
 
-📊 总计 **124** 个 | 我的：**21** 个 | 系统：**103** 个 | 自动更新于 2026年07月04日 14:59
+📊 总计 **125** 个 | 我的：**22** 个 | 系统：**103** 个 | 自动更新于 2026年07月04日 19:21
