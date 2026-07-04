@@ -1,5 +1,5 @@
 ---
-name: fxt-course-design
+name: bubble-course-design
 description: AI课程设计系统：输入一个课程方向，系统性地产出从产品矩阵→课程大纲→逐字稿→营销物料→直播脚本→交付体系的全链路方案。覆盖知识付费课程从0到1的全部环节。触发词："课程设计""知识付费""做课""课程方案""直播卖课""课程体系"。
 ---
 
@@ -113,7 +113,7 @@ XX包 · 第X节：{标题}（{时长}）
 
 ### 模块3 · 营销物料
 
-调用 `fxt-course-images` 生成商品图。需要另外生成的：
+调用 `bubble-course-images` 生成商品图。需要另外生成的：
 - 短视频脚本（7天14条的排期结构）
 - 小红书笔记（干货分享型，非硬广）
 - 详情页/落地页文案
@@ -145,11 +145,11 @@ XX包 · 第X节：{标题}（{时长}）
 
 | 场景 | 调用的技能 |
 |------|-----------|
-| 生成课程推广图 | `fxt-course-images` |
-| 写短视频脚本/小红书笔记 | `social`、`fxt-social` |
-| 制作PPT课件 | `fxt-slides` |
+| 生成课程推广图 | `bubble-course-images` |
+| 写短视频脚本/小红书笔记 | `social`、`bubble-social` |
+| 制作PPT课件 | `bubble-slides` |
 | 写营销文案 | `copywriting` |
-| 设计赠品文档 | `fxt-writer`、`fxt-excel` |
+| 设计赠品文档 | `bubble-writer`、`bubble-excel` |
 | 头脑风暴课程创意 | `brainstorming` |
 | 用户需求分析 | `customer-research` |
 | 定价策略 | `pricing` |

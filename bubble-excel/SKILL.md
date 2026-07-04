@@ -1,5 +1,5 @@
 ---
-name: fxt-excel
+name: bubble-excel
 description: Excel 数据处理技能：说人话出公式、数据匹配/透视/同比环比/图表一站式处理。
   当用户提到 Excel 公式、VLOOKUP、数据透视表、同比环比、图表制作、数据匹配、
   "公式报错"、"表格处理"、"帮我写个公式"、"这个数据怎么分析"、"Excel 用不了"、"#N/A"、"#REF!"等场景时使用本技能。
@@ -487,7 +487,7 @@ for name, sheet in df.items():
 ## 目录结构
 
 ```
-fxt-excel/
+bubble-excel/
 ├── SKILL.md                  # 本文件
 └── references/
     ├── common-functions.md   # 50 个常用函数速查表

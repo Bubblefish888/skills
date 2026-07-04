@@ -1,5 +1,5 @@
 ---
-name: fxt-script
+name: bubble-script
 description: 新媒体短视频脚本定制创作 — 从IP定位到成片交付的完整链路。
   基于IP智能体定制理念，输出包含节奏总览、逐镜分镜头、口播/剧情双模式、
   钩子体系、视听设计、平台适配、AI味自检、拍摄清单的专业级短视频脚本。
@@ -526,7 +526,7 @@ description: 新媒体短视频脚本定制创作 — 从IP定位到成片交付
 ## 目录结构
 
 ```
-fxt-script/
+bubble-script/
 ├── SKILL.md                         # 本文件
 └── references/
     ├── hook-patterns.md              # 30种钩子句式库

@@ -1,5 +1,5 @@
 ---
-name: fxt-social
+name: bubble-social
 description: 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your crush with the most sincere words
 user-invocable: true
 ---

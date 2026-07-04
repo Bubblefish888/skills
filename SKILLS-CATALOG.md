@@ -1,6 +1,6 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年07月04日 19:21
+> 🤖 自动生成 | 更新时间：2026年07月04日 19:29
 > 📊 共 **125** 个 Skill（我的 22 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
@@ -12,15 +12,15 @@
 | # | Skill | 做什么 |
 |:-:|--------|--------|
 | 1 | `ai-learning-interview` |  |
-| 2 | `fxt-brain` | 知识库搭建技能：帮你把散落在电脑各处的笔记、文章、摘抄、截图文字整理成结构化、可检索的本地知识库。当用户提到"整理笔记"... |
-| 3 | `fxt-course-design` | AI课程设计系统：输入一个课程方向，系统性地产出从产品矩阵→课程大纲→逐字稿→营销物料→直播脚本→交付体系的全链路方案。... |
-| 4 | `fxt-course-images` | 课程推广图文生成器：输入课程/产品主题，自动生成一套4张推广图文页面（主图、收获清单、对比优势、适合人群）。支持HTML... |
-| 5 | `fxt-design` | 设计师工具包技能：输出专业设计规范——具体色号、字号、版式比例、字体搭配。 |
-| 6 | `fxt-excel` | Excel 数据处理技能：说人话出公式、数据匹配/透视/同比环比/图表一站式处理。 |
-| 7 | `fxt-script` | 新媒体短视频脚本定制创作 — 从IP定位到成片交付的完整链路。 |
-| 8 | `fxt-slides` | HTML PPT Studio — author professional static HTML presentati... |
-| 9 | `fxt-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
-| 10 | `fxt-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
+| 2 | `bubble-brain` | 知识库搭建技能：帮你把散落在电脑各处的笔记、文章、摘抄、截图文字整理成结构化、可检索的本地知识库。当用户提到"整理笔记"... |
+| 3 | `bubble-course-design` | AI课程设计系统：输入一个课程方向，系统性地产出从产品矩阵→课程大纲→逐字稿→营销物料→直播脚本→交付体系的全链路方案。... |
+| 4 | `bubble-course-images` | 课程推广图文生成器：输入课程/产品主题，自动生成一套4张推广图文页面（主图、收获清单、对比优势、适合人群）。支持HTML... |
+| 5 | `bubble-design` | 设计师工具包技能：输出专业设计规范——具体色号、字号、版式比例、字体搭配。 |
+| 6 | `bubble-excel` | Excel 数据处理技能：说人话出公式、数据匹配/透视/同比环比/图表一站式处理。 |
+| 7 | `bubble-script` | 新媒体短视频脚本定制创作 — 从IP定位到成片交付的完整链路。 |
+| 8 | `bubble-slides` | HTML PPT Studio — author professional static HTML presentati... |
+| 9 | `bubble-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
+| 10 | `bubble-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
 | 11 | `interview-prep-lilith` | | |
 | 12 | `jn-account-diagnose` |  |
 | 13 | `jn-clip-planner` |  |
@@ -206,4 +206,4 @@
 
 ---
 
-📊 总计 **125** 个 | 我的：**22** 个 | 系统：**103** 个 | 自动更新于 2026年07月04日 19:21
+📊 总计 **125** 个 | 我的：**22** 个 | 系统：**103** 个 | 自动更新于 2026年07月04日 19:29
