@@ -1,7 +1,7 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年07月22日 15:36
-> 📊 共 **126** 个 Skill（我的 23 个 + 系统 103 个）
+> 🤖 自动生成 | 更新时间：2026年07月22日 15:39
+> 📊 共 **127** 个 Skill（我的 24 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
 
@@ -33,7 +33,8 @@
 | 20 | `jn-script-coach` |  |
 | 21 | `jn-title-designer` |  |
 | 22 | `jn-topic-planner` |  |
-| 23 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
+| 23 | `qingyun-cine-skill` | PLAN-FIRST cinematic video editing workflow for trailers, te... |
+| 24 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
 
 ### 核心三板斧
 
@@ -207,4 +208,4 @@
 
 ---
 
-📊 总计 **126** 个 | 我的：**23** 个 | 系统：**103** 个 | 自动更新于 2026年07月22日 15:36
+📊 总计 **127** 个 | 我的：**24** 个 | 系统：**103** 个 | 自动更新于 2026年07月22日 15:39
