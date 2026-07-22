@@ -1,7 +1,7 @@
 # 我的 Skill 清单
 
-> 🤖 自动生成 | 更新时间：2026年07月22日 15:34
-> 📊 共 **125** 个 Skill（我的 22 个 + 系统 103 个）
+> 🤖 自动生成 | 更新时间：2026年07月22日 15:36
+> 📊 共 **126** 个 Skill（我的 23 个 + 系统 103 个）
 
 > 💡 此表每次 Skill 变更后自动更新，同步推送到 [GitHub](https://github.com/Bubblefish888/skills)
 
@@ -21,18 +21,19 @@
 | 8 | `bubble-slides` | HTML PPT Studio — author professional static HTML presentati... |
 | 9 | `bubble-social` | 追爱军师 — 帮你用最纯情的话把心上人追到手 | Love Strategist — win over your cru... |
 | 10 | `bubble-writer` | 职场写作技能：周报/日报一键生成、述职/年终总结 STAR+L 结构输出、会议纪要结构化整理。 |
-| 11 | `interview-prep-lilith` | | |
-| 12 | `jn-account-diagnose` |  |
-| 13 | `jn-clip-planner` |  |
-| 14 | `jn-comment-helper` |  |
-| 15 | `jn-data-reviewer` |  |
-| 16 | `jn-human-rewriter` |  |
-| 17 | `jn-painpoint-miner` |  |
-| 18 | `jn-publish-planner` |  |
-| 19 | `jn-script-coach` |  |
-| 20 | `jn-title-designer` |  |
-| 21 | `jn-topic-planner` |  |
-| 22 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
+| 11 | `dashi-ppt` | 制作 PPT、演示文稿、幻灯片、汇报材料时使用。Dashi PPT 基于预置视觉主题组合页面,生成可离线打开、可在浏览器... |
+| 12 | `interview-prep-lilith` | | |
+| 13 | `jn-account-diagnose` |  |
+| 14 | `jn-clip-planner` |  |
+| 15 | `jn-comment-helper` |  |
+| 16 | `jn-data-reviewer` |  |
+| 17 | `jn-human-rewriter` |  |
+| 18 | `jn-painpoint-miner` |  |
+| 19 | `jn-publish-planner` |  |
+| 20 | `jn-script-coach` |  |
+| 21 | `jn-title-designer` |  |
+| 22 | `jn-topic-planner` |  |
+| 23 | `skill-router` | Skill Router — 技能推荐官：每次用户提问自动扫描所有可用技能，推荐最匹配的4-6个（A-D核心+E自定义+... |
 
 ### 核心三板斧
 
@@ -206,4 +207,4 @@
 
 ---
 
-📊 总计 **125** 个 | 我的：**22** 个 | 系统：**103** 个 | 自动更新于 2026年07月22日 15:34
+📊 总计 **126** 个 | 我的：**23** 个 | 系统：**103** 个 | 自动更新于 2026年07月22日 15:36
